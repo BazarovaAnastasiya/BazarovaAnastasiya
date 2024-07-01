@@ -4,12 +4,10 @@
 
 ### welcom to my GitHub pages
 
-![Profile views](https://gpvc.arturio.dev/BazarovaAnastasiya)
-
 ## language and tools
 
-<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='html' height='40'><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png ' alt='css' height='40'>
-<img src='https://pbs.twimg.com/media/DkY0E5VW4AA9enP.jpg' alt='vscod' height='40'>
+<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='html' height='40'>
+<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png ' alt='css' height='40'>
 <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' alt='git' height='40'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LESS_Logo.svg/1600px-LESS_Logo.svg.png' alt='less' height='40'>
 <img src='https://softmap.ru/upload/uf/4cc/4cc7732def86bf69bb2091337570327f.png' alt='figma' height='40'>
@@ -24,8 +22,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BazarovaAnastasiya)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BazarovaAnastasiya&theme=dracula)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BazarovaAnastasiya&theme=dracula)  
-
-![GitHub metrics](https://metrics.lecoq.io/BazarovaAnastasiya)  
